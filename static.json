@@ -1,0 +1,10 @@
+{
+  "headers":
+  {
+    "/*":
+    {
+      "X-Author": "Будагян, Артем Игоревич",
+      "Access-Control-Allow-Origin":"*"
+    }
+  }
+}
